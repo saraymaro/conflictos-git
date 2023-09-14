@@ -29,5 +29,11 @@ sin pensarlo. ¿Qué versión quiero? ¿Con que cambios me quiero quedar? Y
 finalmente, soluciona el conflicto.
 >Hacemos click en "Accept incoming changes" ya que en este caso me interesa quedarme con la opción en la que sale mi nombre y fecha actual y hacemos click en "complete merge" para que se nos quede ese cambio.
 >![Alt text](img/6.png)
+>Nos aparecerá esta ventana para hacer el commit.
+>![Alt text](img/7.png)
+>Y esta otra para hacer también pull y push, hacemos click en OK y se hace completamente.
+>![Alt text](img/8.png)
+>Vamos a github para ver que los cambios se han hecho correctamente y conflicto solucionado.
+>![Alt text](img/9.png)
 
 
