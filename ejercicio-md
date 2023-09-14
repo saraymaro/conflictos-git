@@ -15,4 +15,19 @@ lugar del actual.
 ![Alt text](img/2.png)
 
 👉Intenta hacer un push al repositorio remoto.
+>Al hacer "push" nos da error.
+![Alt text](img/3.png)
+
+👉Haz un git pull y ves que Git no puede auto-resolver el conflicto. Por lo que
+nos deja la responsabilidad a nosotros como programadores. Haz un git pull y ves que Git no puede auto-resolver el conflicto. Por lo que nos deja la responsabilidad a nosotros como programadores.
+>![Alt text](img/4.png)
+>![Alt text](img/5.png)
+
+👉Piensa en que versión quieres, es muy importante estar seguro de lo que
+queremos hacer para no tener dolores de cabeza y no darle a cualquier opción
+sin pensarlo. ¿Qué versión quiero? ¿Con que cambios me quiero quedar? Y
+finalmente, soluciona el conflicto.
+>Hacemos click en "Accept incoming changes" ya que en este caso me interesa quedarme con la opción en la que sale mi nombre y fecha actual y hacemos click en "complete merge" para que se nos quede ese cambio.
+>![Alt text](img/6.png)
+
 
