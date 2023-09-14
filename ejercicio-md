@@ -1,2 +1,18 @@
-👉Clonamos el repositorio aqui y añadimos el archivo correspondiente.
+👉1. Crea un repositorio llamado conflictos-
+git y añade un readme.md (puedes marcar la pestaña add readme.md cuando lo creas desde GitHub). 2. Añade en el repositorio el siguiente
+contenido 3. Clona el repositorio remoto conflictos-git a tu dispositivo (git clone).
+
+>Clonamos el repositorio aqui con "git clone" y añadimos el archivo correspondiente.
+
+👉Modifica desde GitHub, el repositorio
+poniendo tu nombre y la fecha de hoy en
+lugar del actual.
+>Hacemos click en el archivo readme y le damos a editar. Una vez dentro lo editamos y hacemos click en "Commit changes"para hacer un commit.
+![Alt text](img/1.png)
+
+👉Ves al repositorio local y modifica el nombre por Jaimito Fernández y pon como fecha 22/22/2222.
+>Modificamos en el repositorio local.
+![Alt text](img/2.png)
+
+👉Intenta hacer un push al repositorio remoto.
 
